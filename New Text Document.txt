@@ -1,0 +1,10 @@
+touch - kreiraj 
+git init - pokreni git 
+add - salje u pripremu 
+git status
+rm - brisanje 
+  git config --global user.email "petardjalovic21@gmail.com"
+  git config --global user.name "petardjalovic"
+wq - save i exit 
+ git checkout -b [name_of_your_new_branch] - dodavanje branse 
+ 
